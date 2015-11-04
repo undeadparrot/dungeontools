@@ -1,0 +1,13 @@
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\bin\Debug\WpfTestProject.exe.config
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\bin\Debug\WpfTestProject.exe
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\bin\Debug\WpfTestProject.pdb
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\WpfTestProject.csprojResolveAssemblyReference.cache
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\Window1.baml
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\Window1.g.cs
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\App.g.cs
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\WpfTestProject_MarkupCompile.cache
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\WpfTestProject.g.resources
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\WpfTestProject.exe
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\obj\Debug\WpfTestProject.pdb
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smatu\Documents\SharpDevelop Projects\WpfTestProject\WpfTestProject\bin\Debug\Newtonsoft.Json.xml
