@@ -11,3 +11,16 @@ C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\ImageRegionTool\ob
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.g.resources
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.exe
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.pdb
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\bin\Debug\ImageRegionTool.exe.config
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\bin\Debug\ImageRegionTool.exe
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\bin\Debug\ImageRegionTool.pdb
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\Window1.baml
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\Window1.g.cs
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\App.g.cs
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool_MarkupCompile.cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.g.resources
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.exe
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\ImageRegionTool\obj\Debug\ImageRegionTool.pdb

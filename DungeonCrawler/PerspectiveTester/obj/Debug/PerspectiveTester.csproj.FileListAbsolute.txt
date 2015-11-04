@@ -1,0 +1,9 @@
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\bin\Release\PerspectiveTester.exe
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\bin\Release\Newtonsoft.Json.dll
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\bin\Release\Newtonsoft.Json.xml
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.MainForm.resources
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.Properties.Resources.resources
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.ProjectorForm.resources
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.csproj.GenerateResource.Cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\PerspectiveTester\obj\Debug\PerspectiveTester.exe

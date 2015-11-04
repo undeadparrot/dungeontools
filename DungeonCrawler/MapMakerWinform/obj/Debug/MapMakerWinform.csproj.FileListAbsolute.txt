@@ -18,3 +18,13 @@ C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\MapMakerWinform\ob
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.csproj.GenerateResource.Cache
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.exe
 C:\Users\smatu\Documents\SharpDevelop Projects\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.pdb
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\bin\Debug\MapMakerWinform.exe.config
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\bin\Debug\MapMakerWinform.exe
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\bin\Debug\MapMakerWinform.pdb
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.MainForm.resources
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.csproj.GenerateResource.Cache
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.exe
+C:\Users\Shane\Documents\ProjectsGit\dungeontools\DungeonCrawler\MapMakerWinform\obj\Debug\MapMakerWinform.pdb

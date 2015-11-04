@@ -1,0 +1,11 @@
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\bin\Debug\PerspectiveTester.exe
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\bin\Debug\PerspectiveTester.pdb
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.Properties.Resources.resources
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.csproj.GenerateResource.Cache
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.exe
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.pdb
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.MainForm.resources
+C:\Users\Shane\Documents\Visual Studio 2010\Projects\PerspectiveTester\PerspectiveTester\PerspectiveTester\obj\x86\Debug\PerspectiveTester.ProjectorForm.resources
